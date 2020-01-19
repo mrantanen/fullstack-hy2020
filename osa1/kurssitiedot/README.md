@@ -1,1 +1,1 @@
-Full stack 2020 osa 1 kurssitiedot
+Full stack 2020 course part osa 1 kurssitiedot
